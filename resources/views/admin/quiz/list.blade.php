@@ -1,4 +1,4 @@
-i<x-app-layout>
+<x-app-layout>
     <x-slot name="header">Quizler</x-slot>
     <div class="card">
         <div class="card-body">

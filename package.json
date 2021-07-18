@@ -25,7 +25,9 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.15.3",
-        "bootstrap": "^5.0.2",
+        "bootstrap": "^4.5.3",
+        "jquery": "^3.5.1",
         "npm-watch": "^0.10.0"
-    }
+    },
+    "name": "quiz"
 }
